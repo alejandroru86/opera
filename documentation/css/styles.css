@@ -2,7 +2,7 @@
 @import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
 span.request {
- font: bold;
+ font: bold, arial;
  color: #FFA500;
 }
 
