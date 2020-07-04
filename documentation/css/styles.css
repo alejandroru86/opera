@@ -1,6 +1,9 @@
 @import "/opera/documentation/plugins/SyntaxHighlighter/shCore.css";
 @import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
+.request {
+ background: orange;
+}
 
 /*Tabla para headers de xml*/
 table.codesTable01 {
