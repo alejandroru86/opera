@@ -2,6 +2,7 @@
 @import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
 .request {
+ font: bold;
  color: #FFA500;
 }
 
