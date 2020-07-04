@@ -1,0 +1,38 @@
+/*Tabla para headers de xml*/
+table.codesTable01 {
+border: 1px solid #ddd;
+font-size: 0.8em;
+}
+
+td.codesTable01 {
+ background-color:#eee;
+ border: 1px solid #ddd;
+ padding-left: 0.8em;
+}
+
+td.codesTable02 {
+ background-color:#ffffff;
+ padding-left: 15px;
+}
+
+/*Botón de acordión*/
+.details {    
+ background: #eee;    
+ color: #444;    
+ padding: 18px;    
+ border: none;    
+ text-align: left;    
+ outline: none;    
+ font-size: 15px;    
+}
+
+/*Tabla de icons*/
+.t01 {
+ background-color: #424654;
+}
+td.t02 {
+ background-color: #ffffff;
+}
+td.t03 {
+ background-color: #c0c0c0;
+}
