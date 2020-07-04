@@ -1,5 +1,5 @@
-@import "shThemeMidnight.css";
-@import "shCore.css";
+@import "/opera/documentation/plugins/SyntaxHighlighter/shCore.css";
+@import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
 
 /*Tabla para headers de xml*/
