@@ -1,3 +1,7 @@
+@import "shThemeMidnight.css";
+@import "shCore.css";
+
+
 /*Tabla para headers de xml*/
 table.codesTable01 {
 border: 1px solid #ddd;
