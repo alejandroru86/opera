@@ -2,7 +2,7 @@
 @import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
 .request {
- background: orange;
+ color: #FFA500;
 }
 
 /*Tabla para headers de xml*/
