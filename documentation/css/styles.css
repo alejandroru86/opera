@@ -1,7 +1,7 @@
 @import "/opera/documentation/plugins/SyntaxHighlighter/shCore.css";
 @import "/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css";
 
-.request {
+span.request {
  font: bold;
  color: #FFA500;
 }
