@@ -9,7 +9,7 @@
 <script type='text/javascript'>SyntaxHighlighter.all();</script>
 */
 
-span.request {
+span.request, span.response {
  font: normal bold;
  color: #FFA500;
 }
