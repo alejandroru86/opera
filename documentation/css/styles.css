@@ -14,7 +14,8 @@ span.request {
  color: #FFA500;
 }
 .divHome {
- float: right;
+ position: absolute;
+ right: 0px;
 }
 .bHome1 {
   background-color: #4CAF50; /* Green */
