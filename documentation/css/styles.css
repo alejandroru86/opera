@@ -1,8 +1,9 @@
-/*
 @import url("https://alejandroru86.github.io/opera/documentation/plugins/SyntaxHighlighter/shCore.css");
 @import url("https://alejandroru86.github.io/opera/documentation/plugins/SyntaxHighlighter/shThemeMidnight.css");
+/*
 <script src="https://alejandroru86.github.io/opera/documentation/plugins/SyntaxHighlighter/shCore.js"></script> 
 <script src="https://alejandroru86.github.io/opera/documentation/plugins/SyntaxHighlighter/shBrushAS3.js></script>
+<script type='text/javascript'>SyntaxHighlighter.all();</script>
 */
 
 span.request {
