@@ -73,7 +73,7 @@ td.codesTable02 {
 /*Tabla de icons*/
 table.t00 {
  table-layout: fixed;
- background-color: #424654;
+ background: #424654;
  width: 90%;
  margin: auto;
 }
@@ -84,9 +84,10 @@ td.t01 {
  padding: 1em 0;
 }
 td.t02 {
- font: normal 0.5em, sans-serif;
- background-color: #ffffff;
+ font: normal 0.2em, sans-serif;
+ color: red;
+ background: #ffffff;
 }
 td.t03 {
- background-color: #c0c0c0;
+ background: #c0c0c0;
 }
