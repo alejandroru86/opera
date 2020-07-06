@@ -84,7 +84,7 @@ td.t01 {
  padding: 1em 0;
 }
 td.t02 {
- font: normal 0.2em, sans-serif;
+ font-size: 24px;
  color: red;
  background: #ffffff;
 }
