@@ -84,10 +84,12 @@ td.t01 {
  padding: 1em 0;
 }
 td.t02 {
- font-size: 0.5em;
- color: blue;
+ font-size: 0.9em;
+ color: black;
  background: #ffffff;
 }
 td.t03 {
+ font-size: 1.1em;
+ color: blue;
  background: #c0c0c0;
 }
