@@ -73,7 +73,8 @@ td.codesTable02 {
 /*Tabla de icons*/
 table.t00 {
  background-color: #424654;
- width: 90%;
+ width: 80%;
+ margin: auto;
 }
 td.t01 {
  color: #ffffff;
