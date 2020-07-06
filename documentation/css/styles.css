@@ -76,7 +76,6 @@ table.t00 {
  background-color: #424654;
  width: 90%;
  margin: auto;
- font: normal 0.5em, sans-serif;
 }
 td.t01 {
  color: #ffffff;
@@ -85,6 +84,7 @@ td.t01 {
  padding: 1em 0;
 }
 td.t02 {
+ font: normal 0.5em, sans-serif;
  background-color: #ffffff;
 }
 td.t03 {
