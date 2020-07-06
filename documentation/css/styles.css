@@ -71,8 +71,13 @@ td.codesTable02 {
 }
 
 /*Tabla de icons*/
-.t01 {
+table.t00 {
  background-color: #424654;
+}
+td.t01{
+ font: 15px;
+ color: #000000;
+ background: red;
 }
 td.t02 {
  background-color: #ffffff;
