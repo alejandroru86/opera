@@ -127,13 +127,13 @@ th.ti02:first-child {
  width: 3em;
 }
 th.ti02:nth-child(2) {
- width: 150px;
+ width: 10em;
 }
 th.ti02:nth-child(3) {
- width: 9em;
+ width: 10em;
 }
 th.ti02:nth-child(4) {
- width: 12em;
+ width: 15em;
 }
 th.ti02:last-child {
  width: 3em;
