@@ -106,7 +106,7 @@ table.ti00 {
  width: 90%;
  margin: auto;
 }
-tr.ti02:nth-child() {
+.ti02:nth-child() {
  background: #dddddd;
  padding: 0.2em;
 }
