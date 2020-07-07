@@ -101,9 +101,14 @@ td.t03 {
 
 table.ti00 {
  border: 1px solid black;
+ border-collapse: collapse;
  font-size: 0.8em;
  width: 90%;
  margin: auto;
+}
+table.ti00 tr:nth-child() {
+ background: #dddddd;
+ padding: 0.2em;
 }
 table.ti00 td:first-child {
  width: 15%;
