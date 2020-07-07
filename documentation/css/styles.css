@@ -108,10 +108,13 @@ table.ti00 {
 }
 tr.ti01:nth-child(even) {
  background: #dddddd;
- padding: 0.2em;
+ padding: 0.3em;
+}
+tr.ti01:nth-child(odd) {
+ padding: 0.3em;
 }
 th.ti02:first-child {
- width:25px;
+ width:30px;
 }
 th.ti02:nth-child(2) {
  width:150px;
@@ -123,5 +126,5 @@ th.ti02:nth-child(4) {
  width:250px;
 }
 th.ti02:last-child {
- width:25px;
+ width:5em;
 }
