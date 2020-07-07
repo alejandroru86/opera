@@ -149,7 +149,8 @@ td.ti03:last-child {
 
 .icow {
  background: #ffffff;
+ width: 70%;
 }
 .icow i {
- padding: 1em;
+ padding: 0.4em 0.8em;
 }
