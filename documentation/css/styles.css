@@ -30,36 +30,36 @@ span.request, span.response {
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
 .bHome2 {
   background-color: white; 
   color: black; 
   border: 2px solid #008CBA;
 }
-
 .bHome2:hover {
   background-color: #008CBA;
   color: white;
 }
 
+
 /*Tabla para headers de xml*/
+
 table.codesTable01 {
 border: 1px solid #ddd;
 font-size: 0.8em;
 }
-
 td.codesTable01 {
  background-color:#eee;
  border: 1px solid #ddd;
  padding-left: 0.8em;
 }
-
 td.codesTable02 {
  background-color:#ffffff;
  padding-left: 15px;
 }
 
+
 /*Botón de acordión*/
+
 .details {    
  background: #eee;    
  color: #444;    
@@ -70,7 +70,9 @@ td.codesTable02 {
  font-size: 15px;    
 }
 
+
 /*Tabla de icons*/
+
 table.t00 {
  table-layout: fixed;
  background: #424654;
@@ -92,4 +94,13 @@ td.t03 {
  font-size: 0.8em;
  color: blue;
  background: #c0c0c0;
+}
+
+
+/*Icon list table*/
+
+table.ti00 {
+ table-layout: fixed;
+ width: 90%;
+ margin: auto;
 }
