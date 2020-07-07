@@ -101,20 +101,23 @@ td.t03 {
 /*Icon list table*/
 
 table.ti00 {
- border: solid none solid none;
  border-collapse: collapse;
  font-size: 0.8em;
  margin: auto;
 }
 tr.ti01:nth-child(even) {
  background: #dddddd;
+ border: solid none solid none;
  padding: 0.9em;
 }
 tr.ti01:nth-child(odd) {
+ border: solid none solid none;
  padding: 3em;
 }
+
+
 th.ti02:first-child {
- width: 30px;
+ width: 3em;
 }
 th.ti02:nth-child(2) {
  width: 150px;
@@ -123,11 +126,13 @@ th.ti02:nth-child(3) {
  width: 150px;
 }
 th.ti02:nth-child(4) {
- width: 7em;
+ width: 9em;
 }
 th.ti02:last-child {
  width: 3em;
 }
+
+
 td.ti03:last-child {
  text-align: center;
 }
