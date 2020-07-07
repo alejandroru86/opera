@@ -8,6 +8,7 @@
 <script src="https://alejandroru86.github.io/opera/documentation/plugins/SyntaxHighlighter/shBrushAS3.js></script>
 <script type='text/javascript'>SyntaxHighlighter.all();</script>
 <script src="https://kit.fontawesome.com/9632b0f819.js" crossorigin="anonymous"></script>
+font: 2em, serift;
 */
 
 span.request, span.response {
@@ -100,28 +101,28 @@ td.t03 {
 /*Icon list table*/
 
 table.ti00 {
- border: 1px solid black;
+ border: solid none solid none;
  border-collapse: collapse;
  font-size: 0.8em;
  width: 90%;
  margin: auto;
 }
-tr.ti02:nth-child(even) {
+tr.ti01:nth-child(even) {
  background: #dddddd;
  padding: 0.2em;
 }
-table.ti00 td:first-child {
+th.ti02:first-child {
  width: 15%;
 }
-table.ti00 td:nth-child(1) {
+th.ti02:nth-child(1) {
  width:20%;
 }
-table.ti00 td:nth-child(2) {
+th.ti02:nth-child(2) {
  width:20%;
 }
-table.ti00 td:nth-child(3) {
+th.ti02:nth-child(3) {
  width:30%;
 }
-table.ti00 td:last-child {
+th.ti02:last-child {
  width:15%;
 }
