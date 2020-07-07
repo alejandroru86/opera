@@ -104,7 +104,6 @@ table.ti00 {
  border: solid none solid none;
  border-collapse: collapse;
  font-size: 0.8em;
- width: 90%;
  margin: auto;
 }
 tr.ti01:nth-child(even) {
@@ -112,17 +111,17 @@ tr.ti01:nth-child(even) {
  padding: 0.2em;
 }
 th.ti02:first-child {
- width: 100px;
+ width: 50px;
 }
 th.ti02:nth-child(1) {
- width:200px;
+ width:100px;
 }
 th.ti02:nth-child(2) {
- width:200px;
+ width:100px;
 }
 th.ti02:nth-child(3) {
- width:300px;
+ width:200px;
 }
 th.ti02:last-child {
- width:100px;
+ width:50px;
 }
