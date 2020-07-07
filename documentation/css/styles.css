@@ -111,20 +111,23 @@ tr.ti01:nth-child(even) {
  padding: 0.9em;
 }
 tr.ti01:nth-child(odd) {
- padding: 0.3em;
+ padding: 3em;
 }
 th.ti02:first-child {
- width:30px;
+ width: 30px;
 }
 th.ti02:nth-child(2) {
- width:150px;
+ width: 150px;
 }
 th.ti02:nth-child(3) {
- width:150px;
+ width: 150px;
 }
 th.ti02:nth-child(4) {
- width:250px;
+ width: 7em;
 }
 th.ti02:last-child {
- width:3em;
+ width: 3em;
+}
+td.ti03:last-child {
+ text-align: center;
 }
