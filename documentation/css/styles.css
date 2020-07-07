@@ -143,3 +143,13 @@ th.ti02:last-child {
 td.ti03:last-child {
  text-align: center;
 }
+
+
+/*Div con icons*/
+
+.icow {
+ background: #ffffff;
+}
+.icow i {
+ padding: 1em;
+}
