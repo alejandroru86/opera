@@ -112,17 +112,17 @@ tr.ti01:nth-child(even) {
  padding: 0.2em;
 }
 th.ti02:first-child {
- width: 15%;
+ width: 100px;
 }
 th.ti02:nth-child(1) {
- width:20%;
+ width:200px;
 }
 th.ti02:nth-child(2) {
- width:20%;
+ width:200px;
 }
 th.ti02:nth-child(3) {
- width:30%;
+ width:300px;
 }
 th.ti02:last-child {
- width:15%;
+ width:100px;
 }
