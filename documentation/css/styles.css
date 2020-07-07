@@ -10,7 +10,7 @@
 <script src="https://kit.fontawesome.com/9632b0f819.js" crossorigin="anonymous"></script>
 font: 2em, serift;
 font-size: 2em;
-border: solid none solid none;
+border: 5px solid red;
 
 */
 
@@ -111,10 +111,14 @@ table.ti00 {
 tr.ti01:nth-child(even) {
  background: #dddddd;
  border-style: solid none solid none;
+ border-width: thin;
+ border-color: #e0e0e0;
  padding: 0.9em;
 }
 tr.ti01:nth-child(odd) {
  border-style: solid none solid none;
+ border-width: thin;
+ border-color: #e0e0e0;
  padding: 3em;
 }
 
